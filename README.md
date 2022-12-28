@@ -52,4 +52,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [vitor antonionne](https://github.com/vitorantonionne)
 - Frontend Mentor - [@vitorantonionne](https://www.frontendmentor.io/profile/vitorantonionne)
-- 
