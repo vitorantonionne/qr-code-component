@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <h2 align="center">Links</h2>
 
 - Solution URL: [QR CODE Component (GRID +FLEXBOX+KEYFRAMES) | Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-u6g8S3C7DL)
-- Live Site URL: [https://vitorantonionne.github.io/product-preview-card-component/](https://vitorantonionne.github.io/product-preview-card-component/)
+- Live Site URL: [[https://vitorantonionne.github.io/product-preview-card-component/](https://vitorantonionne.github.io/qr-code-component/)]([https://vitorantonionne.github.io/product-preview-card-component/](https://vitorantonionne.github.io/qr-code-component/))
 
 ## Table of contents
 
